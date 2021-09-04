@@ -1,5 +1,5 @@
 # values.js
-
+[![dhruv sakariya][npm-image]][npm-url]
 [![NPM Version][npm-image]][npm-url]
 [![Minzipped size][bundlephobia-image]][bundlephobic-url]
 [![License][license-image]][license-url]
